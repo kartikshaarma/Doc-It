@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 # Main project metadata.
 [project]
 name = "doc-it-installer"
-version = "0.1.2"
+version = "0.1.3"
 authors = [
   { name="Kartik Sharma, Harshvardhan Singh", email="kartiksh1610@gmail.com" }, 
 ]
