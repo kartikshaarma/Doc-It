@@ -1,0 +1,16 @@
+{
+    "author": "Your Name",
+    "ollama_model_name": "llama3:latest",
+    "ollama_api_endpoint": "http://localhost:11434/api/generate",
+    "files_to_include": [
+        "*.py",
+        "*.js",
+        "*.html",
+        "*.css"
+    ],
+    "files_to_ignore": [
+        "__pycache__",
+        ".venv",
+        ".docit"
+    ]
+}
